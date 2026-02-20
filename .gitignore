@@ -1,0 +1,12 @@
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Environment files
+.env
+venv/
+env/
+
+# IDE/editor files
+.vscode/
+.DS_Store
