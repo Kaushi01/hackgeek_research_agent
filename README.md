@@ -105,7 +105,23 @@ tech_research_agent/
 
 Every query is embedded using `nomic-embed-text` and stored in Qdrant under the user's ID. On the next query, relevant past research, preferences, and key facts are retrieved and injected into the prompt — making answers smarter over time.
 
-## 👨‍💻 Built By
 
-Raj — HackGeek Hackathon, GeekRoom 2026
+
+## 📸 Screenshots
+
+### 💬 Answer
+<img width="1894" height="824" alt="image" src="https://github.com/user-attachments/assets/696d21d4-f4fd-4069-a7bf-6f5412efe524" />
+
+
+### 🧠 Memory & Metrics
+<img width="1903" height="785" alt="image" src="https://github.com/user-attachments/assets/8147f5c6-794f-43e8-a0b1-7b125d5fb953" />
+
+
+## 👨‍💻 Built By
+Team [Kepplers] — HackGeek Hackathon, GeekRoom 2026
+- Kaushiki Sharma
+- Sanchita Kundalia
+- Riya Sengar
+- Moksha Panghal
+
 
