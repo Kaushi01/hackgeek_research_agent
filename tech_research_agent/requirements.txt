@@ -1,0 +1,7 @@
+streamlit
+groq
+qdrant-client
+ollama
+requests
+python-dotenv
+uuid
